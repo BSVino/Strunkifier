@@ -1,0 +1,127 @@
+html
+{
+	padding: 0px;
+	margin: 0px;
+	border: 0px;
+}
+
+body
+{
+	background-color: #6c7c8b;
+	color: #444448;
+	padding: 0px;
+	margin: -30px;
+	border: 0px;
+}
+
+/*font,th,td,p,h1,h2,h3,li,em {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}*/
+
+#content {
+	background-color: #fff;
+	width: 700px;
+	padding-left: 50px;
+	padding-right: 50px;
+	margin: auto;
+	margin-top: 0px;
+	padding-top: 50px;
+	padding-bottom: 100px;
+}
+
+#header {
+	text-align: center;
+	margin-bottom: 50px;
+	width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 30px;
+	padding-bottom: 50px;
+}
+
+h1 {
+	text-align: center;
+	letter-spacing: 2px;
+}
+
+#header h1 {
+	margin-bottom: 0px;
+}
+
+.quotesleft {
+	font-size: 120px;
+	float: left;
+	line-height: 100px;
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-bottom: -50px;
+	overflow: visible;
+}
+
+.quotesright {
+	font-size: 120px;
+	float: right;
+	margin-top: -20px;
+}
+
+
+#inputform {
+	width: 600px;
+	margin: auto;
+	margin-bottom: 100px;
+}
+
+#inputform textarea {
+	width: 600px;
+	margin-left: 0px;
+}
+
+#inputform input {
+	float: none;
+	display: block;
+	width: 100px;
+	margin: auto;
+}
+
+#strunkified {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+#strunkified .warning {
+	background-color: #ff6;
+}
+
+#strunkified .error {
+	background-color: #f99;
+}
+
+#popuptip {
+	position: relative;
+	padding-left: 2px;
+	padding-right: 2px;
+	margin-left: -2px;
+	margin-right: -2px;
+}
+
+#popuptip a {
+	color: #000;
+	text-decoration: none;
+}
+
+#popuptip a span {
+	display: none;
+}
+
+#popuptip a:hover span {
+	display: block;
+	position: absolute;
+	background-color: #eee;
+	border: 1px solid #666;
+	width: 250px;
+	left: 100px;
+	top: -10px;
+	padding: 5px;
+	text-align: center;
+	z-index: 1;
+}
