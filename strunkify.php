@@ -179,6 +179,7 @@
 			array("very unique", 2, "<em>Unique (adj.)</em> means 'the only of its kind' so a thing can not be 'very unique'"),
 			array("verbal agreement", 1, "<em>Verbal (adj.)</em> means 'relating to words.' Try 'oral agreement'"),
 			array("worth while", 1, "Vague. Why is it not worth while?"),
+			array("is something", 1, "Depending on the usage, can be wordy. ('<em>A flower is something that blooms.</em>' &raquo; '<em>Flowers bloom.</em>')"),
 	);
 
 	function strip_word($input)
