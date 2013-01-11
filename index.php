@@ -31,7 +31,7 @@
 		<ul>
 			<li><a href="http://public.wsu.edu/~brians/errors/errors.html">Paul Brians: Common Errors in English Usage</a></li>
 			<li><a href="http://englishplus.com/grammar/mistcont.htm">English Plus: Common Mistakes and Tricky Choices</a></li>
-			<li><a href="http://en.wikipedia.org/wiki/List_of_commonly_misused_English_words">Wikipedia: List of commonly musused English words</a></li>
+			<li><a href="http://en.wikipedia.org/wiki/List_of_commonly_misused_English_words">Wikipedia: List of commonly misused English words</a></li>
 		</ul>
 	</p>
 	<p><em><strong>I don't like Strunk or White and I disagree with the things presented in The Elements Of Style.</strong></em> - Okay. Then, don't use the Strunkifier. I'm hardly a linguist, I'm a computer programmer who agrees with Strunk that short writing is the best writing. If you'd like to explain to me why one choice or another that I made with the Strunkifier is a poor one, I'd love to hear as I'm interested in the English language as a layman. If I made any faux pas then I'd be happy to correct it.</p>
